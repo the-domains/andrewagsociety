@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: AndrewAgSociety
+navigation:
+  - name: Andrew Agricultural Society
+    url: 'http://andrewagsociety.com'
+    type: external
